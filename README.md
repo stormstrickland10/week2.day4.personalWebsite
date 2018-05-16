@@ -42,3 +42,5 @@ This project will NOT be graded. It is simply used to gauge how our students are
 - [Lorum Ipsum (placeholder text)](http://www.lipsum.com/)
 - [Unsplash (placeholder images)](https://unsplash.it/)
 - [Animate.css](https://daneden.github.io/animate.css/)
+- [W3Schools @media](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+- [W3Schools Parallax](https://www.w3schools.com/howto/howto_css_parallax.asp)
