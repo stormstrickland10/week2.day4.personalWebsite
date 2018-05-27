@@ -29,7 +29,7 @@
      - The target device is iPhone5 (320x568)
      - Make sure to test your website for smaller devices using Chrome Dev Tools (`Ctrl + Shift + I`)
 6. **This is a MILESTONE project
-This project will NOT be graded. It is simply used to gauge how our students are doing during the SI. Check out [this rubric](https://docs.google.com/document/d/1NlDrAH4rITy3B7mNsdH3NQ9MMu-8Xdlun0HlTtNVmWY/edit?usp=sharing) for more details.**
+This project will NOT be graded. It is simply used to gauge how our students are doing during the SI. Check out [this rubric](https://docs.google.com/document/d/1YgQJQB8fp1DRq0rRnclTadTQDDb6Ac1SovMfvLcGMfU/edit?usp=sharing) for more details.**
 7. Have fun making your site!
 
 ## Extra Credit
@@ -37,7 +37,7 @@ This project will NOT be graded. It is simply used to gauge how our students are
 - Many of the p5 projects we made were not properly hosted. However, if you have GitHub host them, you can send users to them directly to play and interact with.
 
 ## Helpful Resources
-- [Rubric: Personal Website](https://docs.google.com/document/d/1NlDrAH4rITy3B7mNsdH3NQ9MMu-8Xdlun0HlTtNVmWY/edit?usp=sharing)
+- [Rubric: Personal Website](https://docs.google.com/document/d/1YgQJQB8fp1DRq0rRnclTadTQDDb6Ac1SovMfvLcGMfU/edit?usp=sharing)
 - [Ultimate Guide to Resume Sites](https://business.tutsplus.com/series/how-to-make-a-great-personal-resume-website-ultimate-guide--cms-1129)
 - [Lorum Ipsum (placeholder text)](http://www.lipsum.com/)
 - [Unsplash (placeholder images)](https://unsplash.it/)
