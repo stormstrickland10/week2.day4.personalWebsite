@@ -1,0 +1,39 @@
+/* h1{
+    font-size: 40px;
+    float: center;
+    position: relative;
+    top: 0px;
+    right: 200;
+
+}
+
+h2{
+    font-size: 40px;
+    float: center;
+    position: relative;
+    top: -50;
+    right: 300;
+  
+
+}
+
+h3{
+    font-size: 40px;
+    float: right;
+    position: relative;
+    top: -195px;
+    right: 500px;
+
+} */
+background{
+    background-color: blue
+}
+
+.everything{
+    justify-content: right;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center
+}
